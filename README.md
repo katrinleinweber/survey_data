@@ -1,5 +1,5 @@
 # Survey Data
 
-- [ ] Push to GitHub
-- [ ] Create conflict
+- [x] Push to GitHub
+- [x] Create conflict
 - [ ] Solve conflict
