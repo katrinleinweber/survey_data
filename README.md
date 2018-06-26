@@ -1,5 +1,5 @@
 # Survey Data
 
 - [x] Push to GitHub
-- [ ] Create conflict online
+- [x] Create conflict online
 - [ ] Solve conflict
